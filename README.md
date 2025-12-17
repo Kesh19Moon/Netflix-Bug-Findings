@@ -1,4 +1,4 @@
-# Netflix-Bug-Findings
+# Teleparty-Bug-Findings
 How a Movie Night Turned Into a Security Bug (and a Future Vacation)
 
 It started like many great security stories do…
