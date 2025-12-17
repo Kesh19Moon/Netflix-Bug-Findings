@@ -4,7 +4,7 @@ How a Movie Night Turned Into a Security Bug (and a Future Vacation)
 It started like many great security stories do…
 late at night, zero plans, and the simple goal of watching something with friends 🎬
 
-We installed a popular watch-party browser extension — chat on the side, synced play/pause, nicknames, avatars. Smooth experience.
+We installed a popular tele-party — chat on the side, synced play/pause, nicknames, avatars. Smooth experience.
 Out of curiosity (occupational hazard), I started poking around the UI.
 
 Then I saw it:
